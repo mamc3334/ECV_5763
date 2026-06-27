@@ -149,7 +149,7 @@ int main( int argc, char** argv )
   openlog("interactive_edge", LOG_PID, LOG_USER);
 
   cv::CommandLineParser parser(argc, argv,
-                               "{@input   |./Jeep-Sideview.png|input image}"
+                               "{@input   |../Jeep-Sideview.png|input image}"
                                "{live    l|false|live video feed using webcam}"
                                "{help    h|false|show help message}");
   cout << "The sample uses Canny and Sobel or Scharr OpenCV functions for edge detection\n\n";
