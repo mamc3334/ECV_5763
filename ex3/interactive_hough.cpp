@@ -1,24 +1,23 @@
 /**
-* Interactive Edge Detection - Canny - Sobel - None
+* Interactive Hough Detection - lines: standard, probabailistic - circles
 * Based off the examples of canny and sobel edge detection in the path: 
               ECV-ECEE-5763-mcgaffin/computer_vision_cv4_tested/capture-transformer
 
 * Author: Mason McGaffin
-* RTES
+* ECV
 * Exercise 3 - Question 2/3
 
-Using the OpenCV camera capture code from previous work and your USB webcam, 
-create a viewer where you can turn on/off edge detection for Canny and/or Sobel 
-by keystroke (e.g., “c” for Canny, “s” for Sobel, “n” for None). You should be 
-able to build this by combining work on Sobel, Canny, and OpenCV camera capture 
-code you have already completed. This example may however help - 
-capture-transformer which was written for OpenCV 3.x (so update as needed or 
-write your own!). Again, compute the frame average rate for Canny and Sobel 
-test runs using posix_clock_gettime time stamping. Add code for this analysis 
-as needed to update and display frame rate updated periodically with OpenCV 
-“put text” on an imshow window or as an update in a syslog (syslog_example). 
-Consider making a slider or other interactive features for thresholds used for 
-Canny and/or Sobel, but this is not required.
+Starting with the OpenCV example for Hough Lines, adapt the code so you can compute 
+Hough lines for a continuous camera stream (houghlines.cpp) and refer to class example
+for OpenCV 3.x as it may help you too, but you will have to update the code to get 
+it to build and run (simple-hough-interactive/). Capture an image showing detection
+of lines for an object you hold up to the camera. What could you use this for?
+
+Starting with the OpenCV example for Hough Circles, adapt the code so you can compute
+Hough circles for a continuous camera stream (houghcircles.cpp) and refer to class 
+example for OpenCV 3.x as it may help you too if you update it 
+(simple-hough-ellipticalinteractive/). Capture an image showing detection of circles 
+for an object you hold up to the camera. What could you use this for?
 
 */
 #include <stdio.h>
