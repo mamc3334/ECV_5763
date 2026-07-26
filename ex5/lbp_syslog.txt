@@ -1,0 +1,564 @@
+Jul 14 15:36:48 jetson-orin-nano lbp_recognize[1865674]: Successfully trained LBPH model on 1 reference image: mason_ref.png
+Jul 14 15:36:48 jetson-orin-nano lbp_recognize[1865674]: lbp_recognize started using live webcam - 200 frames
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 116.134ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.143151
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 98.3408ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.533622
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.5902ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 68.761302
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.1316ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.517580
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.4228ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.397533
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.8821ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.699920
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.6634ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.559685
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.4785ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.371997
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.0768ms
+Jul 14 15:36:49 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.613004
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.5396ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.845712
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.422ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 68.057414
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.6499ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 68.922854
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.7632ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.601812
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2904ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.638755
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.3536ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 66.380869
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.0006ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 63.168014
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.2289ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 60.185677
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.7593ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.592268
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.6095ms
+Jul 14 15:36:50 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.874879
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.3272ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.052534
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.1939ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 58.382552
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.3747ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 62.167751
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2711ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 60.355221
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.8972ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.954573
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.0754ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.398465
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.3018ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 61.081575
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.0825ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 58.949777
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.9224ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 60.188957
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.9257ms
+Jul 14 15:36:51 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.335014
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.6036ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 58.640146
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.9693ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 58.649759
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2259ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.775550
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.3704ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 58.689991
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2943ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 62.270478
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.0002ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.907575
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.1868ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.345395
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.1706ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.730154
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]: recognized 2 faces in 96.3079ms
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 96.860699
+Jul 14 15:36:52 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.434883
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.1508ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 73.177056
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.8362ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.875204
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.3107ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.729326
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 90.1864ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.767954
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 91.6292ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.790660
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.771ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.518592
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 88.8658ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.928ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.4719ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.182ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.620529
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 91.292ms
+Jul 14 15:36:53 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 73.758975
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.2405ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 75.713601
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.8464ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.652230
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.8403ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 76.824396
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 2 faces in 96.0473ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 98.554849
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 76.370532
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 90.0008ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 83.927252
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 91.9262ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 79.614915
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.7771ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 81.984553
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.1235ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 80.303972
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.6334ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 83.331660
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.6161ms
+Jul 14 15:36:54 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 85.153698
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2575ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 84.948174
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.3801ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 82.904358
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.9129ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 79.726405
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.7599ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.622636
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2717ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 86.227488
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.5911ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 88.120670
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 90.9771ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 82.542660
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.0721ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.977472
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.0633ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.206481
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.1625ms
+Jul 14 15:36:55 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.644536
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.7667ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.401993
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.5842ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 63.206853
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.8808ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.184319
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.323ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 63.819616
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2185ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 61.201023
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.5776ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 64.087696
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.6156ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.073228
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.8088ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.141304
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.6296ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.248038
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.4373ms
+Jul 14 15:36:56 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.101049
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.6321ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.823833
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.2475ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 78.261572
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.0472ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.5226ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 87.8297ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.9358ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.4622ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.5729ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.5581ms
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:57 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.6158ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 92.7933ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.4824ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.580607
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.4437ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.480338
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.1741ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 66.259987
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 98.338ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.757805
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.1947ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 60.353601
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.1667ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 61.092393
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.3722ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 66.352656
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.4029ms
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 78.665558
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:58 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.3015ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.2149ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.9745ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.0107ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.3401ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.5059ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.891ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.2371ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.3571ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.3081ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 80.158862
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.9752ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.953697
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.6756ms
+Jul 14 15:36:59 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 63.531782
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 98.2522ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 61.267703
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.7556ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.150512
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.6278ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.953854
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.55ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 73.311132
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 98.2466ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 73.949280
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.9754ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 81.971789
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.6313ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 82.690383
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.3234ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 85.097684
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.9608ms
+Jul 14 15:37:00 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 86.901286
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.1364ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 84.921915
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.2123ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 77.132869
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.3554ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.150056
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.6401ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.309106
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.5778ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 64.563295
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.7922ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.732468
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.4698ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.856461
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.9335ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.992949
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.4105ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.586826
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.4061ms
+Jul 14 15:37:01 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 73.261682
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.7804ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 77.844123
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.9667ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 80.494641
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.4993ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 79.302694
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.0224ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 79.410986
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.3377ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.439832
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.6461ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.224858
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.5406ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 64.431783
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.9114ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 63.379674
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.4328ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 61.643089
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.4211ms
+Jul 14 15:37:02 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 64.825644
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.1154ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 62.098147
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.1783ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 63.966805
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 98.1804ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 59.863436
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.3816ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 60.850026
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.178ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 63.505541
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.1388ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 62.028890
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.9461ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 65.009278
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.4376ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.064102
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.5506ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.181058
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.2988ms
+Jul 14 15:37:03 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.407932
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.5967ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 77.579606
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.7641ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.6423ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.2553ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 93.6804ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 80.662980
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.7911ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 78.907795
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.7613ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.969162
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.7824ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 76.385377
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.4335ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 76.154580
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.1392ms
+Jul 14 15:37:04 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 78.039472
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.6091ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 78.761321
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.4653ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 86.803680
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.92ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 87.872326
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.2252ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 86.2708ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.0828ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 92.2462ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 90.3526ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 92.5532ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.391ms
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:05 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.778ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 88.7668ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.5345ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 92.9325ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 87.8462ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 87.7084ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 87.6686ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.1174ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.0174ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 91.0168ms
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:06 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 88.4249ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 88.5316ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 0 faces in 89.0587ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 90.5966ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 86.215010
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.4558ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 82.291222
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 91.0152ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 77.524240
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 92.292ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 77.451897
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.2133ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.558249
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.8481ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 74.913679
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 94.3352ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 72.567174
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.2701ms
+Jul 14 15:37:07 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.239283
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.0732ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 68.205959
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.9224ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 68.874369
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 98.6412ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.143613
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 2 faces in 100.698ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 94.006507
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 68.614255
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 2 faces in 102.747ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 91.743742
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 67.607710
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 2 faces in 101.923ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 89.925243
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 69.403219
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 97.2001ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.138138
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.2985ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 71.476710
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 95.5875ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 70.648717
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: ---------------------------------
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: recognized 1 faces in 96.1486ms
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]:     Label: 123 - Confidence: 66.314678
+Jul 14 15:37:08 jetson-orin-nano lbp_recognize[1865674]: lbp_recognize closing
