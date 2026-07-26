@@ -24,7 +24,6 @@ void detect_faces(Mat frame, vector<Mat> &cropped, vector<Rect> &faces)
         return;
     }
 
-    //start stopwatch
     cvtColor(frame, gray, COLOR_BGR2GRAY);
     //detect
     cascade.detectMultiScale(gray, faces, SCALE_FACTOR, MIN_NEIGHBORS); // can adjust scales and such too

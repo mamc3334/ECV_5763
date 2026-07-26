@@ -8,7 +8,7 @@
 #include <opencv2/imgproc.hpp>
 #include <opencv2/objdetect.hpp>
 
-#define SCALE_FACTOR 1.1 // increase to speed up - trade off accuracy
+#define SCALE_FACTOR 1.01 // increase to speed up - trade off accuracy
 #define MIN_NEIGHBORS 4  // precision - may miss in low quality
 
 using namespace std;
